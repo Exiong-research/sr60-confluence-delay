@@ -1,0 +1,8 @@
+{
+  "eb_recurrent_pct": 83.7,
+  "eb_nonrecurrent_pct": 16.3,
+  "eb_total_vhd": 11192,
+  "wb_recurrent_pct": 75.8,
+  "diff_points": 7.9,
+  "decision": "Legs similar (<10pt). Stay WB-only, rename to match scope. Use EB as robustness corroboration."
+}

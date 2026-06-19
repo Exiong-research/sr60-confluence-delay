@@ -1,0 +1,30 @@
+{
+  "params": {
+    "vot_passenger": 21.8,
+    "occ_passenger": 1.41,
+    "vot_truck": 37.2,
+    "occ_truck": 1.0,
+    "truck_share_primary": 0.095,
+    "truck_share_range": [
+      0.073,
+      0.114
+    ],
+    "vot_source": "USDOT BCA Guidance Dec 2025, Tables A-2/A-3, 2024$",
+    "truck_source": "Caltrans 2022 Truck AADT, SR-60 Diamond Bar JCT RTE 57 (PM 23.56, 25.46)"
+  },
+  "total_cost": 393717,
+  "recurrent_cost": 298501,
+  "nonrecurrent_cost": 95216,
+  "passenger_cost": 349337,
+  "truck_cost": 44380,
+  "truck_cost_share_pct": 11.3,
+  "truck_cost_share_range_pct": [
+    8.7,
+    13.5
+  ],
+  "disclosures": [
+    "2024$ on 2022 traffic",
+    "daily-avg truck share applied to peak hours (likely slight overstate of peak truck volume)",
+    "annual scale-up illustrative only, fall-only window"
+  ]
+}

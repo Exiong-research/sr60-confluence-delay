@@ -1,0 +1,44 @@
+[
+  {
+    "baseline_pct": 50,
+    "freeflow": "empirical",
+    "total_vhd": 12558,
+    "recurrent_pct": 75.8,
+    "nonrecurrent_pct": 24.2
+  },
+  {
+    "baseline_pct": 50,
+    "freeflow": "fixed65",
+    "total_vhd": 11308,
+    "recurrent_pct": 73.1,
+    "nonrecurrent_pct": 26.9
+  },
+  {
+    "baseline_pct": 70,
+    "freeflow": "empirical",
+    "total_vhd": 12558,
+    "recurrent_pct": 63.0,
+    "nonrecurrent_pct": 37.0
+  },
+  {
+    "baseline_pct": 70,
+    "freeflow": "fixed65",
+    "total_vhd": 11308,
+    "recurrent_pct": 59.0,
+    "nonrecurrent_pct": 41.0
+  },
+  {
+    "baseline_pct": 85,
+    "freeflow": "empirical",
+    "total_vhd": 12558,
+    "recurrent_pct": 48.6,
+    "nonrecurrent_pct": 51.4
+  },
+  {
+    "baseline_pct": 85,
+    "freeflow": "fixed65",
+    "total_vhd": 11308,
+    "recurrent_pct": 43.0,
+    "nonrecurrent_pct": 57.0
+  }
+]

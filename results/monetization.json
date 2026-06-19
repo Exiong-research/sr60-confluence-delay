@@ -1,0 +1,13 @@
+{
+  "params": {
+    "vot_passenger": 21.8,
+    "occupancy": 1.41,
+    "source": "USDOT BCA Guidance Dec 2025, Tables A-2/A-3, 2024$, blended occupancy for all-day window"
+  },
+  "recurrent_cost": 292656,
+  "nonrecurrent_cost": 93351,
+  "total_cost": 386008,
+  "per_weekday": 5677,
+  "annualized_illustrative": 1419146,
+  "note": "Passenger-only; truck layer pending. 2024$ on 2022 traffic. Annual figure illustrative (68->250), seasonality caveat."
+}

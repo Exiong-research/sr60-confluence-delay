@@ -1,1 +1,7 @@
-
+{
+  "total_vhd": 12558.053653878002,
+  "recurrent_vhd": 9521.471978836471,
+  "nonrecurrent_vhd": 3036.5816750415293,
+  "pct_recurrent": 75.81964722611441,
+  "pct_nonrecurrent": 24.180352773885584
+}

@@ -1,0 +1,11 @@
+{
+  "nonrec_vhd_total": 3036.5816750415293,
+  "interval_match_wb_only_pct": 2.3023903131357586,
+  "interval_match_all_crashes_pct": 5.770476688190721,
+  "day_level_crash_day_share_pct": 35.83490145667942,
+  "weekdays_with_crash": 21,
+  "weekdays_total": 68,
+  "n_segment_crashes": 33,
+  "matching_window": "-15 to +60 min, queue reach 3.0 mi upstream",
+  "interpretation": "Crashes are a demonstrable but partial driver of non-recurrent delay; majority is non-crash (demand/weather/unrecorded incidents)."
+}

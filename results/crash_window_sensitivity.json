@@ -1,0 +1,7 @@
+{
+  "tight_0_30_pct": 2.4,
+  "moderate_15_60_pct": 5.8,
+  "loose_30_90_pct": 7.8,
+  "day_level_upper_pct": 35.8,
+  "framing": "Strict matching 2.4-7.8% (lower bound) to day-level 35.8% (upper bound); truth between. Crashes demonstrable but partial."
+}
